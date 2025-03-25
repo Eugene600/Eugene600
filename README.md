@@ -1,16 +1,34 @@
-## Hi there 👋
+# **👋 Hi, I'm Eugene Wachira Mwangi**  
+### **Software Developer | Machine Learning Engineer | Data Scientist**  
+📍 Nairobi, Kenya | 📧 [eugene.mwangi36@gmail.com](mailto:eugene.mwangi36@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/eugene-wachira)  
 
-<!--
-**Eugene600/Eugene600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about building scalable software, AI-driven applications, and data solutions. I thrive in collaborative environments and love solving real-world problems with code.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **🛠️ Technical Skills**  
+
+### **Programming & Development**  
+- **Languages**: Python, Dart, JavaScript, C#, PHP  
+- **Frontend**: Flutter, Angular, HTML/CSS  
+- **Backend**: Django REST Framework, ASP.NET MVC, Node.js  
+- **Databases**: MySQL, MongoDB, SQL Server  
+- **DevOps**: Docker, GitHub Actions, CI/CD  
+
+### **AI/ML & Data Science**  
+- **Machine Learning**: Scikit-learn, TensorFlow, Time Series Forecasting  
+- **LLMs & NLP**: RAG Models, Prompt Engineering  
+- **Data Analysis**: Pandas, NumPy, Power BI  
+
+### **Cloud & Security**  
+- **Cloud Platforms**: Microsoft Azure, AWS (Basic)  
+- **Security**: Docker Secrets, Network Security Best Practices  
+
+---
+
+## **📫 Let’s Connect!**  
+- 🔗 LinkedIn: [linkedin.com/in/eugene-wachira](https://linkedin.com/in/eugene-wachira)  
+- 📧 Email: [eugene.mwangi36@gmail.com](mailto:eugene.mwangi36@gmail.com)  
+- 💻 GitHub: [github.com/Eugene600](https://github.com/Eugene600)  
+
+---
