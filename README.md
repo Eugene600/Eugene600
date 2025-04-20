@@ -11,7 +11,7 @@ Passionate about building scalable software, AI-driven applications, and data so
 ### **Programming & Development**  
 - **Languages**: Python, Dart, JavaScript, C#, PHP  
 - **Frontend**: Flutter, Angular, HTML/CSS  
-- **Backend**: Django REST Framework, ASP.NET MVC, Node.js  
+- **Backend**: Django REST Framework, ASP.NET MVC
 - **Databases**: MySQL, MongoDB, SQL Server  
 - **DevOps**: Docker, GitHub Actions, CI/CD  
 
@@ -21,7 +21,7 @@ Passionate about building scalable software, AI-driven applications, and data so
 - **Data Analysis**: Pandas, NumPy, Power BI  
 
 ### **Cloud & Security**  
-- **Cloud Platforms**: Microsoft Azure, AWS (Basic)  
+- **Cloud Platforms**: Microsoft Azure, AWS 
 - **Security**: Docker Secrets, Network Security Best Practices  
 
 ---
