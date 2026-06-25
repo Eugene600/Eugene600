@@ -9,10 +9,10 @@ Passionate about building scalable software, AI-driven applications, and data so
 ## **🛠️ Technical Skills**  
 
 ### **Programming & Development**  
-- **Languages**: Python, Dart, JavaScript, C#, PHP  
+- **Languages**: Python, Dart, Go, JavaScript, C#, PHP  
 - **Frontend**: Flutter, Angular, HTML/CSS  
-- **Backend**: Django REST Framework, ASP.NET MVC
-- **Databases**: MySQL, MongoDB, SQL Server  
+- **Backend**: Gin Web Framework, Django REST Framework, ASP.NET MVC
+- **Databases**: PostgreSQL, MySQL, MongoDB, SQL Server  
 - **DevOps**: Docker, GitHub Actions, CI/CD  
 
 ### **AI/ML & Data Science**  
