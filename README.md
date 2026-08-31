@@ -1,5 +1,5 @@
 # **👋 Hi, I'm Eugene Wachira Mwangi**  
-### **Software Developer | Machine Learning Engineer | Data Scientist**  
+### **Software Developer | DevOps | Machine Learning Engineer**  
 📍 Nairobi, Kenya | 📧 [eugene.mwangi36@gmail.com](mailto:eugene.mwangi36@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/eugene-wachira)  
 
 Passionate about building scalable software, AI-driven applications, and data solutions. I thrive in collaborative environments and love solving real-world problems with code.  
@@ -10,7 +10,7 @@ Passionate about building scalable software, AI-driven applications, and data so
 
 ### **Programming & Development**  
 - **Languages**: Python, Dart, Go, JavaScript, C#, PHP  
-- **Frontend**: Flutter, Angular, HTML/CSS  
+- **Frontend**: Flutter, React, Angular, HTML/CSS  
 - **Backend**: Gin Web Framework, Django REST Framework, ASP.NET MVC
 - **Databases**: PostgreSQL, MySQL, MongoDB, SQL Server  
 - **DevOps**: Docker, GitHub Actions, CI/CD  
